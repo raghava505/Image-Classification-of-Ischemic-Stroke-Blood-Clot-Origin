@@ -1,0 +1,4 @@
+Problem statement:https://www.kaggle.com/competitions/mayo-clinic-strip-ai
+preprocessed dataset : https://www.kaggle.com/datasets/suryanani30/mayo-512720-dataset
+Notebook 1 : Data preperation and preprocessing :https://www.kaggle.com/suryanani30/data-preparation
+Notebook2 - model building and training: https://www.kaggle.com/code/raghavendra5/kfold-cv?scriptVersionId=118689601
